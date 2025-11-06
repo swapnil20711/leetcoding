@@ -21,3 +21,5 @@ var maxFreqSum = function(s) {
     }
     return vowelMax+consonantMax;
 };
+
+console.log(maxFreqSum('sucesses'))
